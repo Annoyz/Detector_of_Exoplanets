@@ -1,0 +1,7 @@
+gradio==5.7.0
+torch
+scikit-learn
+matplotlib
+pandas
+numpy
+scipy
